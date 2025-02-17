@@ -33,11 +33,5 @@ This is a **Streamlit-based chatbot** designed to assist users in analyzing and 
 
 ## Screenshots:
 ![2)](screenshot/2.png) 
+![1)](screenshot/1.png) 
 
-## Contributions:
-Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
-
----
-
-This description highlights the key features, technologies, and functionality of your chatbot, making it appealing to potential users and contributors. You can customize it further based on your preferences!
- 

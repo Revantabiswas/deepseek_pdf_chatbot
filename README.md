@@ -32,7 +32,7 @@ This is a **Streamlit-based chatbot** designed to assist users in analyzing and 
 - Quick fact-checking and information retrieval.
 
 ## Screenshots:
-![Screenshot (1)](screenshots/Screenshot (1).png) 
+![2)](screenshot/2.png) 
 
 ## Contributions:
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
